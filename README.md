@@ -1,4 +1,17 @@
 
+# My notes
+
+unsorted:
+* kmc2 package install with: `pip install git+https://github.com/LeonidVianAi/kmc2`
+* install conda env from `environment.yml`
+* run python experiments with 
+```bash
+cd experiments
+python -m python.amm_main
+```
+
+# From Original Repo
+
 <p align="center">
   <img src="https://github.com/dblalock/bolt/blob/master/assets/bolt.jpg?raw=true" alt="Bolt" width="611px" height="221px"/>
   <!-- <img src="https://github.com/dblalock/bolt/blob/master/assets/bolt.jpg?raw=true" alt="Bolt" width="685px" height="248px"/> -->
